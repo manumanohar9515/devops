@@ -8,3 +8,6 @@ In a devops, It containing 8 stages,
 6.Deploy
 7.Operate
 8.Monitor
+
+In a devops mostly we can use some tools. They are,
+1.Git 2.Maven 3.Ansible 4.Chef 5.Puppet 6.Salt Stack 7.Jenkins 8.Team City 9.Genios 10.Nagios 11.Junit 12.Gradle 13.Selenium 14.Kubernets etc.
